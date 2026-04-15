@@ -1,3 +1,4 @@
+% https://github.com/Renatovela-ctrl/tarea2_espaciodeestados_matrizdetransferencia
 % Tarea 2: Cálculo de G(s) 
 % Método: G(s) = C * inv(s*I - A) * B + D
 syms s
